@@ -28,7 +28,6 @@
   },
   "homepage": "https://github.com/trippytango/karma-jasmine-jquery",
   "devDependencies": {
-    "bower": "^1.3.9",
-    "bower-installer": "git://github.com/trippytango/bower-installer.git#temp"
+    "bower": "^1.3.9"
   }
 }
